@@ -1,0 +1,109 @@
+body{
+    font-family: sans-serif;
+    font-size: 110%;
+}
+
+.Body{
+ padding:10px;
+}
+
+.menu{
+    font-size:30px;
+    text-align: center;
+    color: white;
+}
+
+#Main{
+    display:flex;
+    background-color:rgb(250, 244, 244);
+}
+
+header{
+    text-align:center;
+}
+
+#Myphoto{
+    width:250px;
+    height:250px;
+    border-radius:100%;
+    padding: 5%;
+    margin: 0%;
+}
+
+#Header{
+    font-family: monospace;
+    font-size:30px;
+    color:rgb(250, 249, 249);
+    background-image:url(../Images/Ground.jpg);
+    background-size: contain;
+    padding-bottom: 5px;
+}
+
+.Quote{
+    font-size:30px;
+    color: #faf4f4;
+    font-style: oblique;
+    padding-bottom:5%;
+}
+
+#Description{
+    font-size:20px;
+    padding-inline:5px;
+}
+
+#Sidebar{
+    background-color: rgb(221, 11, 11);   
+}
+
+.List{
+    list-style-type:none;
+    line-height:50px;
+    padding:50px;
+    font-size:30px;
+    text-align:center;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:18px;
+}
+
+h2{
+    text-align: center;
+    font-size:30px;
+    color:rgb(252, 248, 248);
+    background-color: #000000;
+    background-size:50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-size: 25px;
+    padding:2px;
+}
+
+h4{
+    font-size:20px;
+    padding:2px;
+}
+
+li{
+    font-size:18px;
+    padding:2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer{
+    background-color: #000000;
+    text-align: center;
+    padding:2px;
+}
+
+.icon{
+    border-radius:100%;
+    width:65px;
+    height:65px;
+    padding-right:10px;
+    padding-left:10px;
+}
+
